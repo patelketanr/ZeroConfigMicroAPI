@@ -9,5 +9,5 @@ This is just POC level and lot things are yet to complete but still it will give
 4.	Web console to monitor a traffic over the services 
 5.	Raise notifications for down services 
 6.	Register and expose micro service through API Gateway with zero configuration at APIGateway end.
-7.	And so on..  Still thinking what else we can simplify 
+7.	And so on..  Still thinking what else we can be simplify 
   
